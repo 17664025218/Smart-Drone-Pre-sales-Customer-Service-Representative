@@ -37,3 +37,10 @@
 *   **新规落地导致合规咨询激增：** 随着2026年5月无人机实名登记、RID强制上线等新规落地，客户对实名、禁飞区、激活流程等合规问题咨询暴涨。人工客服往往跟不上法规更新速度，回答出错极易导致客户违规并引发投诉。
 *   **销售盲打导致线索浪费：** 销售人员拿到线索时往往只有手机号，缺乏客户需求、预算和决策阶段等画像资料。此外，客户与智能体深度沟通后触发转人工时，销售人员看不到之前的对话内容，客户被迫重复叙述，严重降低信任感并降低转化率。
 *   **专业人才难招难留：** 无人机产品线复杂，新客服/销售需要经过长达3个月的培训才能独立接待。极高的人员离职率导致沉没培训成本和业务空窗期。
+
+## 🚀 第三部分：产品 MVP📄 <a href="https://qcn5m25qj2la.feishu.cn/docx/AkQ0d3z7HoNC96x3DwOcTnQDnpd?from=from_copylink" target="_blank">PRD</a>  
+
+*   **1.0版本：** （单Agent模式下）📄 <a href="https://qcn5m25qj2la.feishu.cn/docx/YXeXdY7h0omZOjxaaocc9tzNnag?from=from_copylink" target="_blank">提示词设置</a>
+<img width="1377" height="678" alt="image" src="https://github.com/user-attachments/assets/44eb95c2-3c70-45e6-8396-c1d89eb2dfc0" />
+
+
