@@ -41,6 +41,13 @@
 ## 🚀 第三部分：产品 MVP📄 <a href="https://qcn5m25qj2la.feishu.cn/docx/AkQ0d3z7HoNC96x3DwOcTnQDnpd?from=from_copylink" target="_blank">PRD</a>  
 
 *   **1.0版本：** （单Agent模式下）📄 <a href="https://qcn5m25qj2la.feishu.cn/docx/YXeXdY7h0omZOjxaaocc9tzNnag?from=from_copylink" target="_blank">提示词设置</a>
-<img width="1377" height="678" alt="image" src="https://github.com/user-attachments/assets/44eb95c2-3c70-45e6-8396-c1d89eb2dfc0" />
+<div align="center">
+<img width="879" height="478" alt="image" src="https://github.com/user-attachments/assets/44eb95c2-3c70-45e6-8396-c1d89eb2dfc0" />
+</div> 
+
+*   **1.1版本：** （工作流模式）
+<div align="center">
+<img width="879" height="478" alt="image" src="https://github.com/user-attachments/assets/3ec470c3-238a-4267-be2e-ed3eeb84279a" />
+</div> 
 
 
